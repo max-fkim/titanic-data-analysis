@@ -1,4 +1,5 @@
 # titanic-data-analysis
+![Alt text](https://raw.githubusercontent.com/max-fkim/titanic-data-analysis/main/docsimages/bf50b3ef-437f-4306-9039-ffae8a5136c2.webp)
 About This Exercise
 
 This exercise was centered around the initial setup of Git using Homebrew on a macOS system, followed by an introduction to data analysis with a focus on the Titanic disaster dataset. Key components of the exercise included configuring Git for version control, which aids in tracking changes and organizing projects efficiently.
